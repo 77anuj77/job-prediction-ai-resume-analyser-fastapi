@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+/* ─────────────────────────────────────────────────────────────
+   ResumeAI · Design Tokens — Soft Structuralist Neumorphism
+   ───────────────────────────────────────────────────────────── */
+
+@theme inline {
+  /* Surface */
+  --color-surface: #eceef4;
+  --color-raised: #f6f7fb;
+  --color-inset: #dfe2ea;
+  --color-ink: #101117;
+  --color-ink-soft: #4c4f5e;
+  --color-ink-faint: #8b8f9f;
+
+  /* Brand accent */
+  --color-accent: #4f46e5;
+  --color-accent-strong: #4338ca;
+  --color-accent-soft: #eef0ff;
+
+  /* Semantic */
+  --color-good: #0e9f6e;
+  --color-good-soft: #e6f7f0;
+  --color-warn: #d97706;
+  --color-warn-soft: #fdf3e0;
+  --color-bad: #e11d48;
+  --color-bad-soft: #fde8ef;
+
+  /* Fonts */
+  --font-display: var(--font-space-grotesk);
+  --font-body: var(--font-plus-jakarta);
+
+  /* Neumorphic shadows — soft structural depth */
+  --shadow-neo-xs:
+    2px 2px 6px rgba(139, 146, 173, 0.5),
+    -2px -2px 6px rgba(255, 255, 255, 0.92);
+  --shadow-neo-sm:
+    4px 4px 12px rgba(139, 146, 173, 0.42),
+    -4px -4px 12px rgba(255, 255, 255, 0.92);
+  --shadow-neo:
+    8px 8px 24px rgba(139, 146, 173, 0.42),
+    -8px -8px 24px rgba(255, 255, 255, 0.95);
+  --shadow-neo-lg:
+    16px 16px 44px rgba(139, 146, 173, 0.38),
+    -14px -14px 36px rgba(255, 255, 255, 0.96);
+  --shadow-inset-sm:
+    inset 3px 3px 7px rgba(139, 146, 173, 0.45),
+    inset -3px -3px 7px rgba(255, 255, 255, 0.88);
+  --shadow-inset:
+    inset 6px 6px 16px rgba(139, 146, 173, 0.4),
+    inset -6px -6px 16px rgba(255, 255, 255, 0.94);
+  --shadow-pressed:
+    inset 3px 3px 8px rgba(139, 146, 173, 0.62),
+    inset -3px -3px 8px rgba(255, 255, 255, 0.92);
+
+  /* Motion */
+  --ease-fluid: cubic-bezier(0.32, 0.72, 0, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-snap: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+@layer base {
+  * {
+    border-color: rgba(16, 17, 23, 0.06);
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--color-surface);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: rgba(79, 70, 229, 0.18);
+    color: var(--color-ink);
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(139, 146, 173, 0.4);
+    border-radius: 999px;
+    border: 3px solid var(--color-surface);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@utility hairline-b {
+  box-shadow: inset 0 -1px 0 rgba(16, 17, 23, 0.06);
+}
+
+/* Embedded hairlines for premium card edges (no 1px borders needed) */
+@utility glow-ring {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.6) inset;
+}
