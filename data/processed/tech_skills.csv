@@ -1,0 +1,39 @@
+skill,skill_category,is_technical
+python,programming,True
+java,programming,True
+c++,programming,True
+c#,programming,True
+javascript,programming,True
+typescript,programming,True
+html,frontend,True
+css,frontend,True
+react,frontend,True
+next.js,frontend,True
+streamlit,frontend,True
+sql,database,True
+mysql,database,True
+postgresql,database,True
+mongodb,database,True
+pandas,data_ai_ml,True
+numpy,data_ai_ml,True
+matplotlib,data_ai_ml,True
+seaborn,data_ai_ml,True
+scikit-learn,data_ai_ml,True
+machine learning,data_ai_ml,True
+deep learning,data_ai_ml,True
+nlp,data_ai_ml,True
+computer vision,data_ai_ml,True
+tensorflow,data_ai_ml,True
+pytorch,data_ai_ml,True
+fastapi,backend,True
+flask,backend,True
+django,backend,True
+rest api,backend,True
+docker,cloud_devops,True
+kubernetes,cloud_devops,True
+aws,cloud_devops,True
+azure,cloud_devops,True
+gcp,cloud_devops,True
+git,cloud_devops,True
+github,cloud_devops,True
+linux,cloud_devops,True
