@@ -4,40 +4,22 @@
   src="assets/clasick_logo_at_top.png" 
   alt="Clasick"
   width="50%"
-  style="border-radius: 20px;"
 />
 
-<div align="center">
+<br><br>
 
 ## 🛠️ Tech Stack
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,python,numpy,pandas,sklearn,docker,githubactions,github" />
 
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `TipTap` · `Framer Motion` · `Recharts`
+<br><br>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,python" />
-
-`FastAPI` · `Python 3.12` · `Uvicorn` · `python-multipart`
-
-### ML & Data
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
-
-`scikit-learn` · `pandas` · `NumPy` · `TF-IDF` · `PDFPlumber` · `pytesseract`
-
-### AI
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-6466F1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
-### Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,githubactions,github" />
-
-`Docker` · `GitHub Actions` · `GHCR`
-
 </div>
-</div>
+
 <div align="center">
 
 # Clasick
@@ -52,7 +34,7 @@ Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume edit
 
 ![GitHub stars](https://img.shields.io/github/stars/77anuj77/job-prediction-ai-resume-analyser-fastapi?style=flat&label=stars&color=2f81f7)
 
-</div>
+
 </div>
 
 > **Note:** There is no public deployment yet — the Live Demo link is a placeholder. The app runs locally (see [Installation](#installation)).
