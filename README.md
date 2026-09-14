@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/clasick_logo_at_top.png" alt="Clasick" width="320" />
+<img src="assets/clasick_logo_at_top.png" alt="Clasick" width="100%" />
+
+</div>
 
 # Clasick
 
