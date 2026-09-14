@@ -10,8 +10,6 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
 <p>
 <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -52,7 +50,6 @@
 
 </div>
 
-# Clasick
 
 **Turn your resume into your competitive advantage.**
 
