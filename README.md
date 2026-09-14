@@ -6,18 +6,49 @@
   width="50%"
 />
 
-<br>
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,python,numpy,pandas,sklearn,docker,githubactions,github" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter-6466F1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/NEXT.JS-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TIPTAP-EDITOR-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/RECHARTS-FF6384?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/UVICORN-499848?style=for-the-badge&logo=uvicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/MULTIPART-API-555555?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF--IDF-ML-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PDFPLUMBER-PDF-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PYTESSERACT-OCR-555555?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPENROUTER-6466F1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GHCR-DOCKER_REGISTRY-2496ED?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 </div>
-
-<div align="center">
 
 # Clasick
 
