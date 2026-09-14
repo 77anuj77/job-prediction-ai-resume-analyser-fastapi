@@ -8,11 +8,16 @@
 />
 
 </div>
+<div align="center">
+
 # Clasick
 
 **Turn your resume into your competitive advantage.**
 
 Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume editor — powered by a trained ML model and an optional AI assistant.
+
+</div>
+
 
 [🚀 Live Demo](https://your-clasick-demo.example) · [⭐ Star on GitHub](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi) · [📖 Landing page](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi/blob/main/landing_page.md)
 
