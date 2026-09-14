@@ -6,14 +6,11 @@
   width="50%"
 />
 
-<br><br>
+<br>
 
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,fastapi,python,numpy,pandas,sklearn,docker,githubactions,github" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-6466F1?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
