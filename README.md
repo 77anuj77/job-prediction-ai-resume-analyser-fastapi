@@ -7,7 +7,7 @@
 />
 
 <div align="center">
-
+---
 <div align="center">
 
 <p>
@@ -50,7 +50,7 @@
 
 </div>
 
-
+---
 **Turn your resume into your competitive advantage.**
 
 Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume editor — powered by a trained ML model and an optional AI assistant.
