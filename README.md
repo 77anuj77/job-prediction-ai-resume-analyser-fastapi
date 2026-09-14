@@ -8,44 +8,46 @@
 
 <div align="center">
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/NEXT.JS-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND_CSS-4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/TIPTAP-EDITOR-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FRAMER_MOTION-000000?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/RECHARTS-FF6384?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/TipTap-000000?style=flat" />
+<img src="https://img.shields.io/badge/Framer_Motion-000000?style=flat&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/UVICORN-499848?style=for-the-badge&logo=uvicorn&logoColor=white" />
-  <img src="https://img.shields.io/badge/MULTIPART-API-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=flat" />
+<img src="https://img.shields.io/badge/python--multipart-555555?style=flat" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF--IDF-ML-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PDFPLUMBER-PDF-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PYTESSERACT-OCR-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/TF--IDF-555555?style=flat" />
+<img src="https://img.shields.io/badge/PDFPlumber-555555?style=flat" />
+<img src="https://img.shields.io/badge/PyTesseract-555555?style=flat" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/GEMINI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPENROUTER-6466F1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-6466F1?style=flat" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/GHCR-DOCKER_REGISTRY-2496ED?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/GHCR-2496ED?style=flat&logo=github&logoColor=white" />
 </p>
 
 </div>
