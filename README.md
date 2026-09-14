@@ -16,13 +16,13 @@
 
 Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume editor — powered by a trained ML model and an optional AI assistant.
 
-</div>
 
 
 [🚀 Live Demo](https://your-clasick-demo.example) · [⭐ Star on GitHub](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi) · [📖 Landing page](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi/blob/main/landing_page.md)
 
 ![GitHub stars](https://img.shields.io/github/stars/77anuj77/job-prediction-ai-resume-analyser-fastapi?style=flat&label=stars&color=2f81f7)
 
+</div>
 </div>
 
 > **Note:** There is no public deployment yet — the Live Demo link is a placeholder. The app runs locally (see [Installation](#installation)).
