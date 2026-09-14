@@ -3,11 +3,11 @@
 <img 
   src="assets/clasick_logo_at_top.png" 
   alt="Clasick"
-  width="100%"
+  width="50%"
+  style="border-radius: 20px;"
 />
 
-<br/>
-
+</div>
 # Clasick
 
 **Turn your resume into your competitive advantage.**
