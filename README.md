@@ -78,6 +78,8 @@ Clasick is a full-stack end-to-end resume analyzer. Upload a resume (PDF or DOCX
 
 It also ships a full WYSIWYG resume editor with DOCX round-trip import/export and an optional LLM assistant for rewriting and improving your resume. Built for students and early-career job seekers who want concrete, actionable feedback instead of a vague "80% match".
 
+</div>
+
 ## Features
 
 - ⚡ **Instant analysis** — upload a PDF/DOCX, get a full report in seconds
