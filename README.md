@@ -70,7 +70,7 @@ Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume edit
 
 ## Preview
 
-<div align="center">
+<div>
 
 ![Clasick demo](assets/user_demo.gif)
 
@@ -119,7 +119,7 @@ It also ships a full WYSIWYG resume editor with DOCX round-trip import/export an
 
 ## Architecture
 
-<div align="center">
+<div>
 
 ![Architecture & workflow](assets/architecture_workflow.gif)
 
@@ -246,7 +246,7 @@ This repository currently has no explicit license. All rights reserved by the au
 
 ---
 
-<div align="center">
+<div>
 
 **Built with ❤️ by [Anuj Paroha](https://github.com/77anuj77)**
 
