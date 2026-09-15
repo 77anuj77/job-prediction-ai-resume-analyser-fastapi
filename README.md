@@ -93,27 +93,6 @@ It also ships a full WYSIWYG resume editor with DOCX round-trip import/export an
 - 🛡️ **OCR fallback** — scanned PDFs are recovered with Tesseract + Poppler
 - 📦 **One-container deploy** — multi-stage Dockerfile and GHCR CI/CD
 
-## Tech Stack
-
-#### Frontend
-
-`Next.js 16` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `TipTap` · `Framer Motion` · `Recharts`
-
-#### Backend
-
-`FastAPI` · `Python 3.12` · `Uvicorn` · `python-multipart`
-
-#### ML & Data
-
-`scikit-learn` · `pandas` · `NumPy` · `TF-IDF` · `PDFPlumber` · `pytesseract`
-
-#### AI
-
-`Gemini` · `OpenRouter` · `OpenAI` — anything OpenAI-compatible via `LLM_*` env vars
-
-#### Infrastructure
-
-`Docker` · `GitHub Actions` · `GHCR`
 
 ## Architecture
 
