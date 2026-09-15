@@ -62,28 +62,23 @@ Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume edit
 ![GitHub stars](https://img.shields.io/github/stars/77anuj77/job-prediction-ai-resume-analyser-fastapi?style=flat&label=stars&color=2f81f7)
 
 
-</div>
-
 > **Note:** There is no public deployment yet — the Live Demo link is a placeholder. The app runs locally (see [Installation](#installation)).
 
 ---
 
 ## Preview
 
-<div>
-
 ![Clasick demo](assets/user_demo.gif)
-
-</div>
 
 ---
 
 ## About
-
+<div align="centre">
 Clasick is a full-stack end-to-end resume analyzer. Upload a resume (PDF or DOCX) — optionally with a job description — and get a match score, matched/missing skills, a categorized skill-gap roadmap, and ranked job recommendations from a cleaned dataset of ~22k Indian job listings. A trained scikit-learn model blends skill overlap with TF-IDF text similarity into one score.
 
 It also ships a full WYSIWYG resume editor with DOCX round-trip import/export and an optional LLM assistant for rewriting and improving your resume. Built for students and early-career job seekers who want concrete, actionable feedback instead of a vague "80% match".
 
+/>
 ## Features
 
 - ⚡ **Instant analysis** — upload a PDF/DOCX, get a full report in seconds
@@ -119,11 +114,7 @@ It also ships a full WYSIWYG resume editor with DOCX round-trip import/export an
 
 ## Architecture
 
-<div>
-
 ![Architecture & workflow](assets/architecture_workflow.gif)
-
-</div>
 
 > A current, spec-accurate board is also maintained as an interactive viewer in [`diagrams/`](diagrams/).
 
@@ -211,12 +202,12 @@ Useful endpoints:
 
 ```text
 job-prediction-ai-resume-analyser-fastapi/
-├── backend/          # FastAPI app: /analyze, /docx/*, /ai/*
+├── backend/          # FastAPI app: /analyze, /docx/*
 ├── src/              # Analysis pipeline: parser, matcher, recommender, ML
 ├── models/           # Trained sklearn artifacts (matcher + scaler)
 ├── data/             # Cleaned skill + Indian job datasets
 ├── web/              # Next.js 16 frontend (upload, report, editor, history)
-├── assets/           # Demo GIFs and logo
+├── assets/            # Demo GIFs and logo
 ├── diagrams/         # Interactive workflow diagram + animated GIF
 ├── Dockerfile        # Single-container backend + frontend build
 ├── requirements.txt
@@ -246,10 +237,6 @@ This repository currently has no explicit license. All rights reserved by the au
 
 ---
 
-<div>
-
 **Built with ❤️ by [Anuj Paroha](https://github.com/77anuj77)**
 
 [🚀 Live Demo](https://your-clasick-demo.example) · [⭐ GitHub](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi) · [🐛 Issues](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi/issues)
-
-</div>
