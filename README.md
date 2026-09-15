@@ -73,12 +73,11 @@ Resume analysis, skill-gap roadmaps, job matching, and an in-browser resume edit
 ---
 
 ## About
-<div align="centre">
+
 Clasick is a full-stack end-to-end resume analyzer. Upload a resume (PDF or DOCX) — optionally with a job description — and get a match score, matched/missing skills, a categorized skill-gap roadmap, and ranked job recommendations from a cleaned dataset of ~22k Indian job listings. A trained scikit-learn model blends skill overlap with TF-IDF text similarity into one score.
 
 It also ships a full WYSIWYG resume editor with DOCX round-trip import/export and an optional LLM assistant for rewriting and improving your resume. Built for students and early-career job seekers who want concrete, actionable feedback instead of a vague "80% match".
 
-/>
 ## Features
 
 - ⚡ **Instant analysis** — upload a PDF/DOCX, get a full report in seconds
