@@ -79,6 +79,8 @@ Clasick is a full-stack end-to-end resume analyzer. Upload a resume (PDF or DOCX
 It also ships a full WYSIWYG resume editor with DOCX round-trip import/export and an optional LLM assistant for rewriting and improving your resume. Built for students and early-career job seekers who want concrete, actionable feedback instead of a vague "80% match".
 
 </div>
+</div>
+</div>
 
 ## Features
 
@@ -240,4 +242,4 @@ This repository currently has no explicit license. All rights reserved by the au
 
 **Built with ❤️ by [Anuj Paroha](https://github.com/77anuj77)**
 
-[🚀 Live Demo](https://your-clasick-demo.example) · [⭐ GitHub](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi) · [🐛 Issues](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi/issues)
+[🚀 Live Demo](https://your-clasick-demo.example) · [⭐ GitHub](https://github.com/77anuj77/job-prediction-ai-resume-analyser-fastapi) · [🐛 Issues](https://github.com/77anu77/job-prediction-ai-resume-analyser-fastapi/issues)
